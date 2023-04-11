@@ -53,6 +53,8 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+            <h4>Email Id :- Pavan.p.b.pavan@gmail.com</h4><br/>
+            <h4>Mob No :- 8308267153</h4>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
