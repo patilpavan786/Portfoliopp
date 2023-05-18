@@ -39,7 +39,7 @@ function Projects() {
               title="CALENDER APP"
               description="Created a calendar app that enables users to add hourly, monthly, and yearly events and tag other registered app users."
               ghLink="https://github.com/patilpavan786/project4-calenderapp.git"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://project4-calenderapp.vercel.app/"
             />
           </Col>
 
