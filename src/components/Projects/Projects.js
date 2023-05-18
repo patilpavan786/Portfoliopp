@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import gym from "../../Assets/Projects/gym.png";
+import gym from "../../Assets/Projects/Screenshot (610).png";
 import TWITTER from "../../Assets/Projects/tweeter.png";
 import Login from "../../Assets/Projects/loginregi.png";
 import SALOON from "../../Assets/Projects/saloon.png";
